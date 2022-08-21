@@ -3,7 +3,7 @@
 PAGE=$1
 URL=$2
 
-curl -X POST https://mindee-devrel.atlassian.net/rest/api/3/issue -H 'Authorization: Basic '$JIRA_API_KEY -H 'Accept: application/json' -H 'Content-Type: application/json' --data '
+curl -X POST https://company-devrel.atlassian.net/rest/api/3/issue -H 'Authorization: Basic '$JIRA_API_KEY -H 'Accept: application/json' -H 'Content-Type: application/json' --data '
 {
     "fields": {
         "summary": "Review the “'$PAGE'” documentation page",

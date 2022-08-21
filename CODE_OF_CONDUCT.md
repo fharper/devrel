@@ -1,83 +1,123 @@
-# Code of Conduct
+# Contributor Covenant Code of Conduct
 
-The Mindee Community exists to facilitate sharing information, resources, and getting help amongst the developers using Mindee in any capacity or others curious about the platform.
+## Our Pledge
 
-We believe our mission is best served in an environment that is friendly, safe, and accepting; free from intimidation or harassment.
+We as members, contributors, and leaders pledge to make participation in our
+community a harassment-free experience for everyone, regardless of age, body
+size, visible or invisible disability, ethnicity, sex characteristics, gender
+identity and expression, level of experience, education, socio-economic status,
+nationality, personal appearance, race, religion, or sexual identity
+and orientation.
 
-Towards this end, certain behaviors and practices will not be tolerated.
+We pledge to act and interact in ways that contribute to an open, welcoming,
+diverse, inclusive, and healthy community.
 
-## tl;dr
+## Our Standards
 
-- Be respectful
-- No solicitation
-- We're here to help:
-    - Frédéric Harper @Fred
-    - Jonathan Grandperrin @Jonathan
+Examples of behavior that contributes to a positive environment for our
+community include:
 
-- Abusive behavior is never tolerated
-- Data published to Mindee Community is hosted at the discretion of the administrators, and may be removed
-- Violations of this code may result in swift and permanent expulsion from the Mindee Community
+* Demonstrating empathy and kindness toward other people
+* Being respectful of differing opinions, viewpoints, and experiences
+* Giving and gracefully accepting constructive feedback
+* Accepting responsibility and apologizing to those affected by our mistakes,
+  and learning from the experience
+* Focusing on what is best not just for us as individuals, but for the
+  overall community
+
+Examples of unacceptable behavior include:
+
+* The use of sexualized language or imagery, and sexual attention or
+  advances of any kind
+* Trolling, insulting or derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or email
+  address, without their explicit permission
+* Other conduct which could reasonably be considered inappropriate in a
+  professional setting
+
+## Enforcement Responsibilities
+
+Community leaders are responsible for clarifying and enforcing our standards of
+acceptable behavior and will take appropriate and fair corrective action in
+response to any behavior that they deem inappropriate, threatening, offensive,
+or harmful.
+
+Community leaders have the right and responsibility to remove, edit, or reject
+comments, commits, code, wiki edits, issues, and other contributions that are
+not aligned to this Code of Conduct, and will communicate reasons for moderation
+decisions when appropriate.
 
 ## Scope
-We expect all members of the Mindee Community, including administrators, users, facilitators, employees, and vendors to abide by this Code of Conduct at all times in all Mindee Community venues, online and in person, all public and private channels, and in one-on-one communications pertaining to Mindee Community affairs.
 
-This policy covers the usage of the Mindee Community Slack community, as well as the Mindee Community Social Media, and any Mindee related events.
+This Code of Conduct applies within all community spaces, and also applies when
+an individual is officially representing the community in public spaces.
+Examples of representing our community include using an official e-mail address,
+posting via an official social media account, or acting as an appointed
+representative at an online or offline event.
 
-This Code of Conduct is in addition to, and does not in any way nullify or invalidate, any other terms or conditions related to use of Mindee Community.
+## Enforcement
 
-The definitions of various subjective terms such as "discriminatory", "hateful", or "confusing" will be decided at the sole discretion of the Mindee Community administrators.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported to the community leaders responsible for enforcement at
+hi@fred.dev.
+All complaints will be reviewed and investigated promptly and fairly.
 
-## Friendly, Harassment-Free Space
-We are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender identity, sexual orientation, disability, ethnicity, religion, age, physical appearance, body size, race, or similar personal characteristics.
+All community leaders are obligated to respect the privacy and security of the
+reporter of any incident.
 
-We ask that you please respect that people have differences of opinion regarding technical choices, and acknowledge that every design or implementation choice carries a trade-off and numerous costs. There is seldom a single right answer. A difference of technology preferences is never a license to be rude.
+## Enforcement Guidelines
 
-Everything shared in the Mindee Community is under FrienNDA. All opinions, concerns, feelings, rants, and viewpoints, whether about people, events, companies, or the tech industry, shared in this Slack shouldn't be shared without the explicit (and enthusiastic) consent of the person who shared it. This includes sharing information without attributing it to the specific person who said it (e.g., "I heard in a Slack workspace I'm a part of that... "). In short, if the information is public knowledge (i.e., can be cited by a readily available online source), it's fine to share, but if you're quoting an individual's opinion, you must receive their permission first.
+Community leaders will follow these Community Impact Guidelines in determining
+the consequences for any action they deem in violation of this Code of Conduct:
 
-Any spamming, trolling, flaming, baiting, or other attention-stealing behavior is not welcome, and will not be tolerated.
+### 1. Correction
 
-Harassing other users of Mindee Community is never tolerated whether via public or private media.
+**Community Impact**: Use of inappropriate language or other behavior deemed
+unprofessional or unwelcome in the community.
 
-Avoid using offensive or harassing package names, nicknames, or other identifiers that might detract from a friendly, safe, and welcoming environment for all.
+**Consequence**: A private, written warning from community leaders, providing
+clarity around the nature of the violation and an explanation of why the
+behavior was inappropriate. A public apology may be requested.
 
-Harassment includes, but is not limited to harmful or prejudicial verbal or written comments related to gender identity, sexual orientation, disability, ethnicity, religion, age, physical appearance, body size, race, or similar personal characteristics; inappropriate use of nudity, sexual images, and/or sexually explicit language in public spaces; threats of physical or non-physical harm; deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; and unwelcome sexual attention.
+### 2. Warning
 
-## Acceptable Content
-The Mindee Community administrators reserve the right to make judgment calls about what is and isn't appropriate in published content. These are guidelines to help you be successful in our community.
+**Community Impact**: A violation through a single incident or series
+of actions.
 
-Content must contain something applicable to the previously stated goals of the Mindee Community. "Spamming", that is, publishing any form of content that is not applicable, is not allowed.
+**Consequence**: A warning with consequences for continued behavior. No
+interaction with the people involved, including unsolicited interaction with
+those enforcing the Code of Conduct, for a specified period of time. This
+includes avoiding interactions in community spaces as well as external channels
+like social media. Violating these terms may lead to a temporary or
+permanent ban.
 
-Content must not contain illegal or infringing content. You should only publish content to Mindee Community if you have the right to do so. This includes complying with all software license agreements or other intellectual property restrictions. For example, redistributing an MIT-licensed module with the copyright notice removed would not be allowed. You will be responsible for any violation of laws or others’ intellectual property rights.
+### 3. Temporary Ban
 
-Content must not be malware. For example, content (code, video, pictures, words, etc.) which is designed to maliciously exploit or damage computer systems, is not allowed.
+**Community Impact**: A serious violation of community standards, including
+sustained inappropriate behavior.
 
-Content name, description, and other visible metadata must not include abusive, inappropriate, or harassing content.
+**Consequence**: A temporary ban from any sort of interaction or public
+communication with the community for a specified period of time. No public or
+private interaction with the people involved, including unsolicited interaction
+with those enforcing the Code of Conduct, is allowed during this period.
+Violating these terms may lead to a permanent ban.
 
-## Reporting Violations of this Code of Conduct
-If you believe someone is harassing you or has otherwise violated this Code of Conduct, please contact any of the admins listed at the top of this document and send us an abuse report. If this is the initial report of a problem, please include as much detail as possible. It is easiest for us to address issues when we have more context.
+### 4. Permanent Ban
 
-## Consequences
-All content published to Mindee Community, including user account credentials, is hosted at the sole discretion of the Mindee Community administrators.
+**Community Impact**: Demonstrating a pattern of violation of community
+standards, including sustained inappropriate behavior,  harassment of an
+individual, or aggression toward or disparagement of classes of individuals.
 
-Unacceptable behavior from any community member, including sponsors, employees, customers, or others with decision-making authority, will not be tolerated.
+**Consequence**: A permanent ban from any sort of public interaction within
+the community.
 
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
+## Attribution
 
-If a community member engages in unacceptable behavior, the Mindee Community administrators may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without a refund in the case of a paid event or service).
+This Code of Conduct is adapted from the [Contributor Covenant,
+version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
 
-## Addressing Grievances
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, please notify the Mindee Community admin by reaching out to any of the admins listed at the top of this document.
+Community Impact Guidelines were inspired by [Mozilla's code of conduct
+enforcement ladder](https://github.com/mozilla/diversity).
 
-We will do our best to ensure that your grievance is handled appropriately.
-
-In general, we will choose the course of action that we judge as being most in the interest of fostering a safe and friendly community.
-
-## Contact Info
-Please contact any of the admins listed at the top of this document if you need to report a problem or address a grievance related to an abuse report.
-
-You are also encouraged to contact us if you are curious about something that might be "on the line" between appropriate and inappropriate content. We are happy to provide guidance to help you be a successful part of our community.
-
-## Credit and License
-This Code of Conduct is based on the DevRel Collective Code of Conduct, which also borrows heavily from the NodeBots Code of Conduct, which in turn borrows from the npm Code of Conduct, which was derived from the Stumptown Syndicate Citizen's Code of Conduct, and the Rust Project Code of Conduct.
-
-This document may be reused under a Creative Commons Attribution-ShareAlike License.
+For answers to common questions about this code of conduct, see the [FAQ](https://www.contributor-covenant.org/faq).

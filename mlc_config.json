@@ -13,9 +13,6 @@
 			"pattern": "https://www.pexels.com*"
 		},
 		{
-			"pattern": "https://github.com/mindee/content*"
-		},
-		{
 			"pattern": "https://www.pngrepo.com"
 		},
 		{
@@ -29,9 +26,6 @@
 		},
 		{
 			"pattern": "https://cfpland.com*"
-		},
-		{
-			"pattern": "https://developers.mindee.com*"
 		},
 		{
 			"pattern": "https://n8n.io*"

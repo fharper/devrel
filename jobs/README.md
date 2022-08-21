@@ -9,7 +9,7 @@ Here is a list of open roles we have on our team
 
 ## Career Ladder
 
-We try to define the career ladder for each specific role within our team to ensure that it's clear how to move to the next step with your career in developer relations at Mindee
+We try to define the career ladder for each specific role within our team to ensure that it's clear how to move to the next step with your career in developer relations.
 
 - [Developer/Engineer](career/engineer.md)
 - [Technical Writer](career/technical-writer.md)

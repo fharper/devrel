@@ -1,9 +1,9 @@
 {
 	"date": "Mar 14, 2022",
 	"due_date": "Apr 13, 2022",
-    "from": "Mindee\n14 rue Charles V\n75004 Paris, France",
+    "from": "Company\n14 rue Charles V\n75004 Paris, France",
     "to": "Dunder Mifflin Paper Company, Inc\nEIN: 73-6952710\n\nAtt.: Michael Scott\n\n1725 Slough Avenue\nScranton, 18505 PA\nUnited States",
-    "logo": "https://github.com/mindee/devrel/raw/main/resources/mindee/Logo-275x160.png",
+    "logo": "https://github.com/company/devrel/raw/main/resources/company/Logo-275x160.png",
     "number": 42,
     "items": [
         {

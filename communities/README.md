@@ -8,7 +8,3 @@ Here is a work in progress non-exhaustive list of online communities for develop
 ## Developers (general)
 
 - [Software Crafters](http://slack.softwarecraftsmanship.org)
-
-## Products related
-
-- [Mindee](https://join.slack.com/t/mindee-community/shared_invite/zt-uzgmljfl-MotFVfH~IdEZxjp~0zldww)

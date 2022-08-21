@@ -1,6 +1,6 @@
 # Documentation
 
-Here are some guidelines for writing the [Mindee documentation](https://developers.mindee.com/docs) using README.io. For anything Markdown specific, please follow the [Markdown guidelines](markdown.md).
+Here are some guidelines for writing the documentation using README.io. For anything Markdown specific, please follow the [Markdown guidelines](markdown.md).
 
 - [Processes](#processes)
 - [README.io Issues](#readmeio-issues--limitations)
@@ -11,7 +11,7 @@ Here are some guidelines for writing the [Mindee documentation](https://develope
 
 ### Modification
 
-If you want to modify the documentation yourself, you are welcome to do so by using the `Suggest Edits` option which is on all pages at the top right corner. You need to be connected to README.io to use this feature. If you do not have an README.io account, please ask [Fred](https://github.com/fharper), [Jonathan](https://github.com/jonathanMindee) or [Olivier](https://github.com/olivMindee).
+If you want to modify the documentation yourself, you are welcome to do so by using the `Suggest Edits` option which is on all pages at the top right corner. You need to be connected to README.io to use this feature. If you do not have an README.io account, please ask [Fred](https://github.com/fharper).
 
 ![Screenshot of the Suggest Edits link & icon](../../img/readmeio-suggest-edits.png)
 
@@ -31,13 +31,13 @@ Once it's done, the Developer Relations team will receive a notification, and wi
 
 ### Review
 
-All `Suggest Edits` are reviewed by [Favour](https://github.com/fakela) & [Fred](https://github.com/fharper) before being merged into the live documentation. In the case that [Favour](https://github.com/fakela) make a `Suggest Edits`, [Fred](https://github.com/fharper) will be the reviewer: the other way around if [Fred](https://github.com/fharper) make a `Suggest Edits`. For content addition on a new feature or complex feature, [Emmanuelle](https://github.com/emmanuellethomas) or [Jonathan](https://github.com/jonathanMindee) will also review the final `Suggest Edits`.
+All `Suggest Edits` are reviewed by [Fred](https://github.com/fharper) before being merged into the live documentation.
 
 For smaller modifications during the review process, like formatting or typos, we will go ahead and do them. Anything else will be validated with the person who `Suggest Edits`.
 
 ### Suggestions
 
-If you do not wish to `Suggest Edits` yourself and you have ideas for new content, modifications, or having any problems with the documentation, please create an issue in the [Developer Relations JIRA project](https://mindee.atlassian.net/jira/software/projects/DEVREL/issues/) with as much details as you can . If you don't have an JIRA account, ask [Emmanuelle](https://github.com/emmanuellethomas).
+If you do not wish to `Suggest Edits` yourself and you have ideas for new content, modifications, or having any problems with the documentation, please ask Fred.
 
 ## README.io Issues & Limitations
 
@@ -63,7 +63,7 @@ README.io isn't built for that, as mentioned by the founder on Twitter. They are
 Not sure how and why, but sometimes the `Page History` will display the wrong names next to a modification. Please verify with the person listed there to ensure it is right.
 
 ### Redirection
-README.io doesn't provide automatic redirection when page `slug` changes. If you do, you need to manually add a redirection rule in the [Error Page](https://dash.readme.com/project/mindee/v1.0/errors).
+README.io doesn't provide automatic redirection when page `slug` changes. If you do, you need to manually add a redirection rule in the Error Page.
 
 ### Suggest Additionnal Edits
 In the case of a back and forth between the person who suggested some documentation edit, and one of the reviewer, please limit these interactions to once or twice. If there are too many back and forth, README.io just stop working and prevent us from merging the changes. README.io isn't built for that: see [Large Suggest Edits section](#large-suggest-edits) for more details.
