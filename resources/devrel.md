@@ -44,6 +44,7 @@ Some resources to help Developer Relations do their job
 ### Developer Relations
 
 - [Devrel Collective](https://devrelcollective.fun): for advocates, evangelists and community managers
+- [devrelX](https://www.devrelx.com/community): learning & training, data & resources, contribute and connect with peers and industry leaders.
 - [Flyless Dev](https://discord.com/invite/FWauQ9Vj): weekly meetup, presentations and community. DevRel without the airmiles.
 
 ### Product Centric
