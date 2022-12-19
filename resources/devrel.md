@@ -44,7 +44,6 @@ Some resources to help Developer Relations do their job
 
 ### Product Centric
 
-- [Mindee](https://slack.mindee.com)
 
 ### Product Managers
 
