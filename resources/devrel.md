@@ -29,6 +29,10 @@ Some resources to help Developer Relations do their job
 
 ## Communities
 
+## Cloud
+
+- [CNCF](https://slack.cncf.io): Cloud Native Computing Foundation Slack community
+
 ### Conferences Related
 
 - [Momentum Developer Conference](https://join.slack.com/t/momentumdevcon/shared_invite/enQtMzMzMzA2MDQwNDAwLTQ1YzYwZjk1NDJmMTVjMjRmZTVhMjliYmViYWMyMWJjMGJkNzMyODZkNTE0NmJjYjIwMzU2NjRlOWY4ZTcwMjE): Slack for the [Momentum Developer Conference](https://momentumdevcon.com)
@@ -37,10 +41,6 @@ Some resources to help Developer Relations do their job
 
 - [Devrel Collective](https://devrelcollective.fun): for advocates, evangelists and community managers
 - [Flyless Dev](https://discord.com/invite/FWauQ9Vj): weekly meetup, presentations and community. DevRel without the airmiles.
-
-### Developers
-
-- [CNCF](https://slack.cncf.io): Cloud Native Computing Foundation Slack community
 
 ### Product Centric
 
