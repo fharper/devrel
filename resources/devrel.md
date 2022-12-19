@@ -49,6 +49,9 @@ Some resources to help Developer Relations do their job
 
 ### Product Centric
 
+#### Kubernetes
+
+- [Kubernetes](https://communityinviter.com/apps/kubernetes/community): the official Kubernetes community
 
 ### Product Managers
 
