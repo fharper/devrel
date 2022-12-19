@@ -10,7 +10,7 @@ As always, we value constructive feedback. Welcome home!
 
 ## Table of content
 
-- [Communities](communities/README.md)
+- [Communities](resources/devrel.md#communities)
 - [Developer Relations 3Cs](#the-3cs)
 - [Developer Relations Mission](#my-mission)
 - [Developer Relations Resources](resources/devrel.md)
