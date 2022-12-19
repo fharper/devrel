@@ -8,6 +8,7 @@ Some resources to help on different levels
 - [Emojis](#emojis)
 - [Fake Data Generators](#fake-data-generators)
 - [Fonts](#fonts)
+- [Licenses](#liences)
 - [People Management](#people-management)
 - [Pictures & Images](#pictures--images)
 - [Social Media](#social-media)
@@ -69,6 +70,10 @@ Some resources to help on different levels
 - [CDN | Fonts](https://www.cdnfonts.com): a CDN for fonts
 - [Font Repo](https://www.fontrepo.com): free `.TFF` fonts
 - [Font Squirrel](https://www.fontsquirrel.com): free for commercial use
+
+## Licenses
+
+- [Unsplash](https://unsplash.com/license)
 
 ## People Management
 
