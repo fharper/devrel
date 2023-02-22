@@ -3,6 +3,7 @@
 Some resources to help on different levels
 
 - [Accessibility](#accessibility)
+- [Audio & Video](#audio--video)
 - [Browser Extensions](#browser-extensions)
 - [Datasets](#datasets)
 - [Emojis](#emojis)
@@ -22,6 +23,10 @@ Some resources to help on different levels
 
 - [W3C: Images Concepts](https://www.w3.org/WAI/tutorials/images/)
 - [W3C: An Alt Decision Tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
+
+## Audio & Video
+
+- [Check your microphone setup](https://podcast.adobe.com/miccheck) (free, but need Adobe account)
 
 ## Browser Extensions
 
