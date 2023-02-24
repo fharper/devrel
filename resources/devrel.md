@@ -2,6 +2,7 @@
 
 Some resources to help Developer Relations do their job
 
+- [Awesome Repositories](#awesome-repositories)
 - [Career Ladders Examples](#career-ladders-examples)
 - [CFPs](#cfps)
 - [Communities](#communities)
@@ -13,6 +14,10 @@ Some resources to help Developer Relations do their job
 - [Open Source Documentation](#open-source-documentation)
 - [Slack Tools](#slack-tools)
 - [Swag](#swag)
+
+## Awesome Repositories
+
+- [Argo](https://github.com/akuity/awesome-argo) (CD, Events, Rollouts, Workflows)
 
 ## Career Ladders Examples
 
