@@ -9,7 +9,7 @@ Some resources to help on different levels
 - [Emojis](#emojis)
 - [Fake Data Generators](#fake-data-generators)
 - [Fonts](#fonts)
-- [Licenses](#liences)
+- [Licenses](#licenses)
 - [People Management](#people-management)
 - [Pictures & Images](#pictures--images)
 - [Social Media](#social-media)
