@@ -38,6 +38,9 @@
 		},
 		{
 			"pattern": "https://www.tmcnet.com*"
+		},
+		{
+			"pattern": "https://www.cdnfonts.com*"
 		}
 	],
   "timeout": "30s",
