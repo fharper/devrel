@@ -2,9 +2,16 @@
 
 Some resources to help developers:
 
+- [Newsletters](#newsletters)
 - [Open Source Licensing](#open-source-licensing)
 - [Technical Information](#technical-information)
 - [Visual Studio Code Extensions](#visual-studio-code-extensions)
+
+## Newsletters
+
+### Kubernetes
+
+- learnk8s: [Learn Kubernetes weekly](https://learnk8s.io/learn-kubernetes-weekly)
 
 ## Open Source Licensing
 
