@@ -27,6 +27,7 @@ Each team need to create one piece of content per each 5+1 people on a team, sta
 **0 piece of content per month** based on 1 people on the team
 
 ### Human Resources
+
 **0 piece of content per month** based on 2 people on the team
 
 ### Product

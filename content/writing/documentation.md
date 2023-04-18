@@ -42,15 +42,19 @@ If you do not wish to `Suggest Edits` yourself and you have ideas for new conten
 ## README.io Issues & Limitations
 
 ### Categories
+
 README.io has a bug where it's impossible to reorder a category outside of the current viewport, which makes it difficult for us since we have sections, like the one with the use cases that have a lot of pages. Fred was only able to do it with Safari on macOS.
 
 ### File Types
+
 README.io only support images. If you need to add another type of file into the documentation, please let [Fred](https://github.com/fharper) knows: he will add it to our AWS S3 bucket, and will send you the link once it's done.
 
 ### Image Names
+
 README.io add a UUID (Universally Unique IDentifier) to all images uploaded to their platform. It means that a file named `classification.png` will be automatically renamed `XXXXXXX-classification.png` like `c7c2d02-classification.png`. If it is something you need to avoir, please refer yourself to the [File Types](#file-types) section.
 
 ### Large Suggest Edits
+
 Please refrain for making `Suggest Edits` that contains too many suggestions. If you do, there are chances that README.io will stop working, and prevent us to merge the changes or even to see them in some cases.
 
 ![Screenshot of the "Cannot be merged" error message](../../img/cannot-be-merged.png)
@@ -60,17 +64,21 @@ README.io isn't built for that, as mentioned by the founder on Twitter. They are
 ![Screenshot of the exchange between README.io founder & Fred](../../img/readmeio-small-changes.png)
 
 ### Page History
+
 Not sure how and why, but sometimes the `Page History` will display the wrong names next to a modification. Please verify with the person listed there to ensure it is right.
 
 ### Redirection
+
 README.io doesn't provide automatic redirection when page `slug` changes. If you do, you need to manually add a redirection rule in the Error Page.
 
 ### Suggest Additionnal Edits
+
 In the case of a back and forth between the person who suggested some documentation edit, and one of the reviewer, please limit these interactions to once or twice. If there are too many back and forth, README.io just stop working and prevent us from merging the changes. README.io isn't built for that: see [Large Suggest Edits section](#large-suggest-edits) for more details.
 
 ![Screenshot of the "Cannot be merged" error message](../../img/cannot-be-merged.png)
 
 ### Unpublished Pages
+
 Keep in mind that unpublishing a page from README.io only means that the page won't be displayed on the left sidebar table of content. Anyone with the URL will still be able to view it. You need to delete the page if you don't want anyone to access it.
 
 ## Syntax
@@ -78,14 +86,17 @@ Keep in mind that unpublishing a page from README.io only means that the page wo
 ### Code Block
 
 #### Display part of the code
+
 If you don't want to display the full code or, as an example, the JSON response, add `..` where the missing code should be.
 
 You can see some visual explanation of this guideline [here](markdown.md#code-block). For README.IO platform **only**, it is two dots and not three: if you put three dots, README.io won't highlight the code correctly!
 
 #### Syntax Highlight
+
 We can only use the [languages supported by them](https://rdmd.readme.io/docs/code-blocks#language-support).
 
 ### Headers
+
 Don't use `H1` headers as it's reserved for the page title.
 
 ## Templates

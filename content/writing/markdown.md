@@ -3,23 +3,24 @@
 Here a list of guidelines for any type of content created with markdown.
 
 - [Callouts](#callouts)
-    - [Types](#types)
+  - [Types](#types)
 - [Code Block](#code-block)
 - [Headers](#headers)
 - [Images](#images)
-    - [ALT Description & Caption](#alt-description--caption)
-    - [Tips In Writing ALT Description](#tips-in-writing-alt-description)
-    - [Copyrights](#copyrights)
-    - [Quality](#quality)
+  - [ALT Description & Caption](#alt-description--caption)
+  - [Tips In Writing ALT Description](#tips-in-writing-alt-description)
+  - [Copyrights](#copyrights)
+  - [Quality](#quality)
 - [Lists](#lists)
-    - [Ordered](#ordered)
-    - [Unordered](#unordered)
+  - [Ordered](#ordered)
+  - [Unordered](#unordered)
 - [Misc](#misc)
 - [Text Formatting](#text-formatting)
-    - [Bold](#bold)
-    - [Italic](#italic)
+  - [Bold](#bold)
+  - [Italic](#italic)
 
 ## Callouts
+
 Callouts are a great method to attract additional attention to specific ideas or to make it obvious that some information is optional or only important in certain situations.
 
 Here is an example of how you can write a callout:
@@ -31,6 +32,7 @@ Here is an example of how you can write a callout:
 ```
 
 ### Types
+
 There are four different types of callouts we use: `success`, `info`, `warning`, `error`.
 
 <!-- markdownlint-disable MD028 -->
@@ -52,6 +54,7 @@ There are four different types of callouts we use: `success`, `info`, `warning`,
 <!-- markdownlint-restore -->
 
 ## Code Block
+
 When displaying code examples, if you don't want to show the full code or the full output, you can add ellipses as shown below.
 
 ![Code example with ellipses at the top](../../img/code-top.png)
@@ -59,12 +62,15 @@ When displaying code examples, if you don't want to show the full code or the fu
 ![Code example with ellipses at the top and the bottom](../../img/code-top-bottom.png)
 
 ## Headers
+
 Do not leave any empty line between the header and the content after it.
 
 ## Images
+
 You’ll need a feature image: the image will be used on the front page, and as the hero image on your blog post. The size needs to be around 2:1 (twice larger than the height) to fit our WordPress template. The size of the images in the article doesn’t matter, but always use the highest possible quality: they will be automatically optimized using a lossless encoding.
 
 ### ALT Description & Caption
+
 Always add a text for the ALT description and a caption to all of the images.
 
 `![this is where your alt text needs to be](myimage.png "this is where the caption goes")`
@@ -86,16 +92,19 @@ Write in such a way that someone could totally understand without needing images
 <!-- markdownlint-restore -->
 
 ### Copyrights
+
 When using images from external parties, always be sure that we have the commercial right to use them. If it's not specified, do not use them. If you aren't sure, ask @fharper.
 
 Always add the credit of images that aren't ours under the image itself. You can either simply put the link to the image page where the copyright information is listed, or write down the author or company owning the image.
 
 ### Quality
+
 Always use the highest possible quality for images, no matter if the file size is huge. They will be optimized using [Shortpixel](https://shortpixel.com/online-image-compression) and a glossy compression level to minimize the file size, but keep a high quality.
 
 ## Lists
 
 ### Ordered
+
 [Markdown standard](https://daringfireball.net/projects/markdown/) let you write ordered list by either numbering them correctly or just making them all items 1
 
 ```markdown
@@ -121,9 +130,11 @@ will both render
 The second way is more easy to manage when you have to reorder your list, but to ensure a better readability of the Markdown files when not rendered, we use the correct numbers for our list items.
 
 ### Unordered
+
 [Markdown standard](https://daringfireball.net/projects/markdown/) let you write unordered list using `*`, `+` and `-`: always use hyphens.
 
 ## Table of Content
+
 Some Markdown parser will gebnerate a table of content (toc) automatically for you (i.e GitHub), but you should always write them manually. There is no guarantee that your content will be viewed with a tool that will do the same.
 
 ## Misc
@@ -133,9 +144,11 @@ Some Markdown parser will gebnerate a table of content (toc) automatically for y
 ## Text Formatting
 
 ### Bold
+
 [Markdown standard](https://daringfireball.net/projects/markdown/) accepts double asterisks or double underscores to make text bold. We use the double asterisk version for bold text.
 
 `**my bold text**`
 
 ### Italic
+
 Same as bold text, [Markdown standard](https://daringfireball.net/projects/markdown/) accepts a single asterisk or single underscore to make your text italic. To ensure a better readability of the Markdown files when not rendered, we use the underscore version so it's easier to distinguish from the bold text.

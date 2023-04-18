@@ -24,6 +24,7 @@ As always, we value constructive feedback. Welcome home!
 ## Developer Relations
 
 ### My Mission
+
 I help developers be successful by nurturing a healthy and welcoming community around my employer ecosystem. This means listening to, advocating for, inspiring, educating, and supporting our community however I can.
 
 ### The 3Cs

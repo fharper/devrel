@@ -9,6 +9,7 @@ You will also be responsible for writing new documentation or update the content
 There is a lot to do, but let's start with a 30-60-90 days plan.
 
 ## First 30 days—Learning
+
 The first month is all about getting to know your colleagues, our product and the tools we use. Everything is explained in the onboarding process that all employees had to go through.
 
 In addition, you will start to slowly work on some urgent or quick projects:

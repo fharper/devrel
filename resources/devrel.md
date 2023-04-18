@@ -118,6 +118,7 @@ Never underestimate the power of having a cute company or product related mascot
 There is also a non-exhaustive list of some of the most well-known [product mascots in tech](https://en.wikipedia.org/wiki/List_of_computing_mascots).
 
 ## Open Source Documentation
+
 Here is a non-exhaustive list of closed sources product or company not known for being open which have open source documentation. This could be helpful to show your company the benefits of having the public documentation on GitHub, and that **it's a common practice**.
 
 - [Aiven](https://github.com/aiven/devportal)

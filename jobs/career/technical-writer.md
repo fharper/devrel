@@ -23,6 +23,7 @@
 - Actively participates in meetings, and creates cross-team collaboration where necessary to address business goals.
 
 ## Senior Technical Writer
+
 At this point, a person is mastering how effective they can be as an individual contributor.
 
 - Acutely aware of our audience and defers voice and tone to meet the needs of the user.
@@ -36,6 +37,7 @@ At this point, a person is mastering how effective they can be as an individual 
 - Demonstrates openness to others’ ideas. Adapts their communication style to most effectively communicate with the target audience. - Effectively and accurately shares credit for ideas and collaborative efforts.
 
 ## Staff Technical Writer
+
 At this point, the majority of one's time is spent scaling their own skills to help others.
 
 - Conducts competitive tear downs and illuminates new patterns and industry standards for information architecture, educating their peers and coworkers.
@@ -46,6 +48,7 @@ At this point, the majority of one's time is spent scaling their own skills to h
 - Notices recurring friction/confusion that impedes team success/efficiency and creates resources that clarify or solve these issues. Also ensures the resources are easy to locate.
 
 ## Principal Technical Writer
+
 At this point, one is helping others be the best that they can be, removing themselves and meeting other where they are.
 
 - Develops proven systems and approaches to technical writing. Replicates those systems and approaches across the team so that others may learn from and improve on them.
