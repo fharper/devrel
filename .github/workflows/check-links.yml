@@ -1,5 +1,5 @@
 name: Markdown Links Validation
-on: push
+on: [push, workflow_dispatch]
 
 jobs:
   markdown-link-check:
