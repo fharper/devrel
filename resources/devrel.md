@@ -87,10 +87,15 @@ Here are some examples of blog/documentation tone & voice/style document/guide:
 
 ## Developer Programs
 
+- [Auth0 Ambassador](https://auth0.com/ambassador-program)
+- [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/)
+- [Cloud Native Ambassadors](https://www.cncf.io/people/ambassadors/) (CNCF)
+- [Cypress Ambassador](https://www.cypress.io/ambassadors/)
 - [Google Developer Experts](https://developers.google.com/community/experts)
 - [HashiCorp Ambassadors](https://www.hashicorp.com/ambassadors)
-- [Microsoft MVP](https://mvp.microsoft.com) (Most Valuable Professionnal)
-- [Mozilla Reps](https://wiki.mozilla.org/Reps) (previously ReMo)
+- [Microsoft MVP](https://mvp.microsoft.com)
+- [Mozilla Reps](https://wiki.mozilla.org/Reps)
+- [Twilio Champions](https://www.twilio.com/en-us/champions)
 
 ## Developer Relations Salaries
 
