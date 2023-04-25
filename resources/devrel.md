@@ -7,6 +7,7 @@ Some resources to help Developer Relations do their job
 - [CFPs](#cfps)
 - [Communities](#communities)
 - [Content Tone & Voice](#content-tone--voice)
+- [Developer Programs](#developer-programs)
 - [Developer Relations Salaries](#developer-relations-salaries)
 - [Google Apps Tools](#google-apps-tools)
 - [Learning](#learning)
@@ -83,6 +84,13 @@ Here are some examples of blog/documentation tone & voice/style document/guide:
 - [Shopify](https://polaris.shopify.com/content/voice-and-tone)
 - [Splunk](https://docs.splunk.com/Documentation/StyleGuide/current/StyleGuide/Howtouse)
 - [Timescale](https://docs.timescale.com/timescaledb/latest/contribute-to-docs/)
+
+## Developer Programs
+
+- [Google Developer Experts](https://developers.google.com/community/experts)
+- [HashiCorp Ambassadors](https://www.hashicorp.com/ambassadors)
+- [Microsoft MVP](https://mvp.microsoft.com) (Most Valuable Professionnal)
+- [Mozilla Reps](https://wiki.mozilla.org/Reps) (previously ReMo)
 
 ## Developer Relations Salaries
 
