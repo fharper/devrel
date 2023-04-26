@@ -61,6 +61,10 @@ Some resources to help Developer Relations do their job
 - [Kubernetes](https://communityinviter.com/apps/kubernetes/community): the official Kubernetes community
 - [DoK Community](https://dokcommunity.slack.com/join/shared_invite/zt-10v7uncvp-jNFwulsVWvUO0SKMDTjwAw#/shared-invite/email): an Open Community for Data on Kubernetes
 
+#### Misc
+
+- [HashiCorp Atlantis](https://join.slack.com/t/atlantis-community/shared_invite/zt-1nt7yx7uq-AnVRc_JItF1CDwZtfqv_OA)
+
 ### Product Managers
 
 - [Mind the Product](https://www.mindtheproduct.com/product-management-slack-community/)
