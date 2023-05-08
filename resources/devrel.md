@@ -99,6 +99,7 @@ Here are some examples of blog/documentation tone & voice/style document/guide:
 - [Google Developer Experts](https://developers.google.com/community/experts)
 - [HashiCorp Ambassadors](https://www.hashicorp.com/ambassadors)
 - [Microsoft MVP](https://mvp.microsoft.com)
+- [MongoDB Champions](https://www.mongodb.com/community/forums/champions/)
 - [Mozilla Reps](https://wiki.mozilla.org/Reps)
 - [Twilio Champions](https://www.twilio.com/en-us/champions)
 
