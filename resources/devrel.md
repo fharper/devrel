@@ -15,6 +15,7 @@ Some resources to help Developer Relations do their job
 - [Open Source Documentation](#open-source-documentation)
 - [Slack Tools](#slack-tools)
 - [Swag](#swag)
+- [Writing Programs](#writing-programs)
 
 ## Awesome Repositories
 
@@ -195,3 +196,7 @@ If you have had a bad experience with one of these vendors, please let us know a
 
 - [Sticker App](https://stickerapp.com): they can do stickers with back paper print
 - [Sticker Mule](https://www.stickermule.com): [@fharper](https://github.com/fharper)'s go to for stickers
+
+## Writing Programs
+
+- DigitalOcean: [Write for DOnations](https://www.digitalocean.com/community/pages/write-for-digitalocean)
