@@ -54,7 +54,7 @@ Once the review process is complete, your article is ready to be published. Keep
 The day of the publication, we will share your content on multiples places:
 
 - On our internal Slack, in the #shakespeare channel;
-- In our [community Slack](https://slack.mindee.com), in the #general channel;
-- On our [Twitter account](https://twitter.com/mindeeAPI);
-- On our [LinkedIn page](https://www.linkedin.com/company/mindee/);
+- In our community Slack, in the #general channel;
+- On our Twitter account;
+- On our LinkedIn page;
 - And on other specific communities or sites depending on the topic.
