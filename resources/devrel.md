@@ -199,4 +199,7 @@ If you have had a bad experience with one of these vendors, please let us know a
 
 ## Writing Programs
 
-- DigitalOcean: [Write for DOnations](https://www.digitalocean.com/community/pages/write-for-digitalocean)
+- [DigitalOcean](https://www.digitalocean.com/community/pages/write-for-digitalocean)
+- [Zenduty](https://zenduty.notion.site/zenduty/Zenduty-s-Guest-Writing-Program-d7ff8f7fae2b42329ded86ebb366ac0f) \*
+
+_\* Please don't do this: a program that give a $25 gift card to the best performing article monthly. Pay guest writers properly, or do something like DigitalOcean program, and give a decent donation to the writer's non-profit of choice. Writing great blog posts is a skill, and takes time, don't use these programs as a way to get cheap labor "in exchange for visibility". I'm still listing their program as the details could be useful._
