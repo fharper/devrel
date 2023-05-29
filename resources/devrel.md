@@ -47,6 +47,7 @@ Some resources to help Developer Relations do their job
 ## Developers (general)
 
 - [Software Crafters](http://slack.softwarecraftsmanship.org)
+- [Software Engineering Daily](http://softwareengineeringdaily.com/slack)
 
 ### Developer Relations
 
