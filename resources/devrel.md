@@ -39,6 +39,7 @@ Some resources to help Developer Relations do their job
 ## Cloud
 
 - [CNCF](https://slack.cncf.io): Cloud Native Computing Foundation Slack community
+- [Continuous Delivery Foundation](https://cdeliveryfdn.slack.com/join/shared_invite/zt-nwc0jjd0-G65oEpv5ynFfPD5oOX5Ogg#/shared-invite/email)
 
 ### Conferences Related
 
