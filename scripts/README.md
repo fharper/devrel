@@ -30,10 +30,6 @@ Delete PDFs with wrong MIME type in the specified folder.
 
 Delete the boucing emails from our Newsletter contact list on SendGrid.
 
-## [detectProtectedPDF.sh](detectProtectedPDF.sh)
-
-Detect password protected PDFs from the desired folder.
-
 ## [fake-data.rb](fake-data.rb)
 
 A small Ruby app that generate some fake data:
@@ -51,10 +47,6 @@ Need to install [faker](https://github.com/faker-ruby/faker) by doing `gem insta
 ## [generate-invoice.sh](generate-invoice.sh)
 
 Generate a fake invoice in PDF format using the information in the [invoice.json](invoice.json) file.
-
-## [getPDFsPages.sh](getPDFsPages.sh)
-
-Get the number of pages for each PDFs from the desired folder.
 
 ## [github-stars](github-stars.sh)
 
