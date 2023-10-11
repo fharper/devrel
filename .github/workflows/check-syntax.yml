@@ -1,0 +1,45 @@
+---
+name: Syntax Validation
+on: [push, workflow_dispatch]
+
+jobs:
+  syntax-check:
+    name: vale
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repository
+        uses: actions/checkout@main
+
+      - name: Download .vale.ini
+        run: wget https://raw.githubusercontent.com/fharper/gh-configs/main/.vale.ini -O .vale.ini
+
+      - name: Create the folders
+        run: |
+          mkdir -p styles && mkdir -p styles/Custom && mkdir -p styles/Vocab && mkdir -p styles/Vocab/base
+
+      - name: Download Custom Style ignore.txt
+        run: wget https://raw.githubusercontent.com/fharper/gh-configs/main/styles/Custom/ignore.txt -O styles/Custom/ignore.txt
+
+      - name: Download Custom Style spelling.yml
+        run: wget https://raw.githubusercontent.com/fharper/gh-configs/main/styles/Custom/spelling.yml -O styles/Custom/spelling.yml
+
+      - name: Download Custom Style substitutions.yml
+        run: wget https://raw.githubusercontent.com/fharper/gh-configs/main/styles/Custom/substitutions.yml -O styles/Custom/substitutions.yml
+
+      - name: Download base Vocab accept.txt
+        run: wget https://raw.githubusercontent.com/fharper/gh-configs/main/styles/Vocab/base/accept.txt -O styles/Vocab/base/accept.txt
+
+      - name: Get latest version of Vale
+        id: lastversion
+        uses: dvershinin/lastversion-action@v0.0.3
+        with:
+          repository: errata-ai/vale
+
+      - name: Install Vale
+        run: |
+          wget https://github.com/errata-ai/vale/releases/download/v${{ steps.lastversion.outputs.last_version }}/vale_${{ steps.lastversion.outputs.last_version }}_Linux_64-bit.tar.gz -O vale.tar.gz
+          tar -xvzf vale.tar.gz vale
+          rm vale.tar.gz
+
+      - name: Validate the syntax
+        run: ./vale --config=.vale.ini *.md
