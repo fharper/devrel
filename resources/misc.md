@@ -6,6 +6,7 @@ Some resources to help on different levels
 - [Audio & Video](#audio--video)
 - [Browser Extensions](#browser-extensions)
 - [Datasets](#datasets)
+- [Documentation](#documentation)
 - [Emojis](#emojis)
 - [Fake Data Generators](#fake-data-generators)
 - [Fonts](#fonts)
@@ -46,6 +47,10 @@ Some resources to help on different levels
 - [License Plates - Europe (Romania)](https://github.com/RobertLucian/license-plate-dataset)
 - [License Plates - US](https://www.kaggle.com/tolgadincer/us-license-plates)
 - [Receipts - different languages](https://www.kaggle.com/jenswalter/receipts)
+
+## Documentation
+
+- [Code Hike](https://codehike.org): syntax highlighter & code walkthrough ([open source](https://github.com/code-hike/codehike))
 
 ## Emojis
 
