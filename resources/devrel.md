@@ -29,7 +29,11 @@ Some resources to help Developer Relations do their job
 ## CFPs
 
 - [CFP Land](https://cfpland.com)
-- [Confs.tech](https://confs.tech/cfp)
+- [Conference Tracker](https://milendyankov.com/ConferenceTracker/)
+- [Confs.tech](https://confs.tech/cfp) ([GitHub](https://github.com/tech-conferences/conference-data))
+- [dev.events](https://dev.events)
+- [Developer Conferences Agenda](https://developers.events) ([GitHub](https://github.com/scraly/developers-conferences-agenda))
+- [KDnuggets](https://www.kdnuggets.com/meetings/index.html): Data Science, Machine Learning, AI & Analytics
 - [SeeCFP](https://seecfp.com)
 - [Tech Daily CFP](http://techdailycfp.com)
 - [PaperCall](https://www.papercall.io/events)
