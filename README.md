@@ -14,7 +14,6 @@ As always, we value constructive feedback. Welcome home!
 - [Developer Relations 3Cs](#the-3cs)
 - [Developer Relations Mission](#my-mission)
 - [Developer Relations Resources](resources/devrel.md)
-- [Events](events/README.md)
 - [Jobs/Roles Information](jobs/README.md)
 - [Onboarding](onboarding/onboarding.md)
 - [Ownership](devrel/ownership.md)
