@@ -15,6 +15,7 @@ Some resources to help Developer Relations do their job
 - [Open Source Documentation](#open-source-documentation)
 - [Slack Tools](#slack-tools)
 - [Swag](#swag)
+- [Vendors](#vendors)
 - [Writing Programs](#writing-programs)
 
 ## Awesome Repositories
@@ -203,6 +204,14 @@ If you have had a bad experience with one of these vendors, please let us know a
 
 - [Sticker App](https://stickerapp.com): they can do stickers with back paper print
 - [Sticker Mule](https://www.stickermule.com): [@fharper](https://github.com/fharper)'s go to for stickers
+
+## Vendors
+
+List any other types of vendors that can be useful for developer relations.
+
+### Tablecloth
+
+[Displays2go](https://www.displays2go.com/M-1043/Custom-Table-Covers-Full-Color-Printing-Logos-Graphics-Messaging?variantId=39311)
 
 ## Writing Programs
 
