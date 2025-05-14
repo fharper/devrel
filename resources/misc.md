@@ -11,6 +11,7 @@ Some resources to help on different levels
 - [Fake Data Generators](#fake-data-generators)
 - [Fonts](#fonts)
 - [Licenses](#licenses)
+- [Music](#music)
 - [People Management](#people-management)
 - [Pictures & Images](#pictures--images)
 - [Social Media](#social-media)
@@ -84,6 +85,10 @@ Some resources to help on different levels
 ## Licenses
 
 - [Unsplash](https://unsplash.com/license)
+
+## Music
+
+- [mobygratis](https://mobygratis.com): free instrumental music
 
 ## People Management
 
