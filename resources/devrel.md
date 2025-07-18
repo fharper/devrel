@@ -9,6 +9,7 @@ Some resources to help Developer Relations do their job
 - [Content Tone & Voice](#content-tone--voice)
 - [Developer Programs](#developer-programs)
 - [Developer Relations Salaries](#developer-relations-salaries)
+- [GitHub Tools](#github-tools)
 - [Google Apps Tools](#google-apps-tools)
 - [Learning](#learning)
 - [Mascots](#mascots)
@@ -117,6 +118,10 @@ Here are some examples of blog/documentation tone & voice/style document/guide:
 ## Developer Relations Surveys
 
 - [State of Developer Relations](https://www.stateofdeveloperrelations.com/) by Hoopy (DevRelCon)
+
+## GitHub Tools
+
+- [StarTrack](https://seladb.github.io/StarTrack-js): GitHub stars history and statistics (code on [GitHub](https://github.com/seladb/startrack-js))
 
 ## Google Apps Tools
 
