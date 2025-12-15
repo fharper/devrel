@@ -9,7 +9,7 @@ Some resources to help Developer Relations do their job
 - [Content Tone & Voice](#content-tone--voice)
 - [Developer Programs](#developer-programs)
 - [Developer Relations Salaries](#developer-relations-salaries)
-- [Gift Cards](#gitf-cards)
+- [Gift Cards](#gift-cards)
 - [GitHub Tools](#github-tools)
 - [Google Apps Tools](#google-apps-tools)
 - [Learning](#learning)
