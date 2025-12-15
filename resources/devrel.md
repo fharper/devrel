@@ -9,6 +9,7 @@ Some resources to help Developer Relations do their job
 - [Content Tone & Voice](#content-tone--voice)
 - [Developer Programs](#developer-programs)
 - [Developer Relations Salaries](#developer-relations-salaries)
+- [Gift Cards](#gitf-cards)
 - [GitHub Tools](#github-tools)
 - [Google Apps Tools](#google-apps-tools)
 - [Learning](#learning)
@@ -118,6 +119,12 @@ Here are some examples of blog/documentation tone & voice/style document/guide:
 ## Developer Relations Surveys
 
 - [State of Developer Relations](https://www.stateofdeveloperrelations.com/) by Hoopy (DevRelCon)
+
+## Gift Cards
+
+Sometimes, for whatever reason, to thank folks you want to send them some gift cards, so here is a list of providers that can help you do that at scale:
+
+- [Tremendous](https://www.tremendous.com)
 
 ## GitHub Tools
 
