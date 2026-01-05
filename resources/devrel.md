@@ -14,6 +14,7 @@ Some resources to help Developer Relations do their job
 - [Google Apps Tools](#google-apps-tools)
 - [Learning](#learning)
 - [Mascots](#mascots)
+- [npm Tools](#npm-tools)
 - [Open Source Documentation](#open-source-documentation)
 - [Slack Tools](#slack-tools)
 - [Swag](#swag)
@@ -154,6 +155,10 @@ Never underestimate the power of having a cute company or product related mascot
 - Rust: [Ferris](https://rustacean.net) the crab
 
 There is also a non-exhaustive list of some of the most well-known [product mascots in tech](https://en.wikipedia.org/wiki/List_of_computing_mascots).
+
+## npm Tools
+
+- [npm trends](https://npmtrends.com)
 
 ## Open Source Documentation
 
