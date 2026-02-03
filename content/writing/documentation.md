@@ -71,7 +71,7 @@ Not sure how and why, but sometimes the `Page History` will display the wrong na
 
 README.io doesn't provide automatic redirection when page `slug` changes. If you do, you need to manually add a redirection rule in the Error Page.
 
-### Suggest Additionnal Edits
+### Suggest Additional Edits
 
 In the case of a back and forth between the person who suggested some documentation edit, and one of the reviewer, please limit these interactions to once or twice. If there are too many back and forth, README.io just stop working and prevent us from merging the changes. README.io isn't built for that: see [Large Suggest Edits section](#large-suggest-edits) for more details.
 

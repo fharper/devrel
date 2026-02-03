@@ -65,7 +65,9 @@ Some resources to help on different levels
 
 ### France
 
+<!-- vale off -->
 - [SIRET (France)—Système d'identification du répertoire des établissements](https://github.com/vsambor/Random-Siret-Generator)
+<!-- vale on -->
 
 ### United States
 
@@ -79,7 +81,7 @@ Some resources to help on different levels
 ## Fonts
 
 - [CDN | Fonts](https://www.cdnfonts.com): a CDN for fonts
-- [Font Repo](https://www.fontrepo.com): free `.TFF` fonts
+- [Font Repository](https://www.fontrepo.com): free `.TFF` fonts
 - [Font Squirrel](https://www.fontsquirrel.com): free for commercial use
 
 ## Licenses
@@ -99,7 +101,7 @@ Some resources to help on different levels
 - [Better Images of AI](https://betterimagesofai.org/images): better images than the unrealistic expectations and misstate capabilities of AI
 - [Noun Project](https://thenounproject.com): icons & photos for everything.
 - [Pexels](https://www.pexels.com): royalty free images & videos
-- [PNG Repo](https://www.pngrepo.com): 300.000+ PNG Icons and Graphics
+- [PNG Repository](https://www.pngrepo.com): 300.000+ PNG Icons and Graphics
 - [Unsplash](https://unsplash.com): free high-resolution photos
 - [WordPress Photo Directory](https://wordpress.org/photos/): [CC0 licensed](https://creativecommons.org/share-your-work/public-domain/cc0/) photos.
 
@@ -156,7 +158,7 @@ Some resources to help on different levels
 - [Noun Project](https://thenounproject.com): icons & photos for everything.
 - [Seek Logo](https://seeklogo.com): 400.000+ vector brand logos and logo templates
 - [SVP Porn](https://svgporn.com): a huge collection of SVG logos
-- [SVG Repo](https://www.svgrepo.com): 300.000+ SVG vectors and icons available for commercial use
+- [SVG Repository](https://www.svgrepo.com): 300.000+ SVG vectors and icons available for commercial use
 
 ## Writing Collaborative Tools
 

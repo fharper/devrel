@@ -12,7 +12,7 @@ Add 10 blank pages to all PDF in the specific folder
 
 ## [convert-heic.sh](convert-heic.sh)
 
-Convert `.heic` (Apple propriatery version of the **H**igh-**E**fficiency **I**mage **F**ile format) to `.jpg` in batch
+Convert `.heic` (Apple proprietary version of the High Efficiency Image File format) to `.jpg` in batch
 
 ## [create-all-doc-issues.sh](create-all-doc-issues.sh)
 
@@ -28,13 +28,13 @@ Delete PDFs with wrong MIME type in the specified folder.
 
 ## [deleteSendGridBounce.sh](deleteSendGridBounce.sh)
 
-Delete the boucing emails from our Newsletter contact list on SendGrid.
+Delete the bouncing emails from our Newsletter contact list on SendGrid.
 
 ## [fake-data.rb](fake-data.rb)
 
 A small Ruby app that generate some fake data:
 
-- France Bank Informations
+- France Bank Information
   - Account Number
   - IBAN
   - Routing Number

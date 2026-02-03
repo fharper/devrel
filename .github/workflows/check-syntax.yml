@@ -9,14 +9,14 @@ jobs:
     steps:
 
       - name: Checkout this repository
-        uses: actions/checkout@v4.1.4
+        uses: actions/checkout@v6.0.1
 
       - name: Download .vale.ini
         run: wget https://raw.githubusercontent.com/fharper/gh-configs/main/.vale.ini -O .vale.ini
 
       - name: Create the folders
         run: |
-          mkdir -p styles && mkdir -p styles/Custom && mkdir -p styles/Vocab && mkdir -p styles/Vocab/base
+          mkdir -p styles && mkdir -p styles/Custom && mkdir -p styles/config && mkdir -p styles/config/vocabularies && mkdir -p styles/config/vocabularies/base
 
       - name: Download Custom Style ignore.txt
         run: wget https://raw.githubusercontent.com/fharper/gh-configs/main/styles/Custom/ignore.txt -O styles/Custom/ignore.txt
@@ -28,13 +28,14 @@ jobs:
         run: wget https://raw.githubusercontent.com/fharper/gh-configs/main/styles/Custom/substitutions.yml -O styles/Custom/substitutions.yml
 
       - name: Download base Vocab accept.txt
-        run: wget https://raw.githubusercontent.com/fharper/gh-configs/main/styles/Vocab/base/accept.txt -O styles/Vocab/base/accept.txt
+        run: wget https://raw.githubusercontent.com/fharper/gh-configs/main/styles/config/vocabularies/base/accept.txt -O styles/config/vocabularies/base/accept.txt
 
+      # Not using errata-ai/vale-action since it's never failing on errors: https://github.com/errata-ai/vale-action/issues/103
       - name: Install Vale
         run: |
-          wget https://github.com/errata-ai/vale/releases/download/v2.30.0/vale_2.30.0_Linux_64-bit.tar.gz -O vale.tar.gz
+          wget https://github.com/errata-ai/vale/releases/download/v3.13.0/vale_3.13.0_Linux_64-bit.tar.gz -O vale.tar.gz
           tar -xvzf vale.tar.gz vale
           rm vale.tar.gz
 
       - name: Validate the syntax
-        run: ./vale --config=.vale.ini *.md
+        run: ./vale --config=.vale.ini --glob="**/*.md" .

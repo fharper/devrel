@@ -54,7 +54,7 @@ At this point, one is helping others be the best that they can be, removing them
 - Develops proven systems and approaches to technical writing. Replicates those systems and approaches across the team so that others may learn from and improve on them.
 - Mentors and actively drives the technical skills of the immediate or extended team.
 - Anticipates issues or implications that their ideas would have on others, and pursues mutually beneficial strategies.
-- Anticipates the needs of those around them. Is respectful in terms of async hygiene, exhibiting care that their teammates can get in touch with them or knows their status during working hours. Fills out process docs without having to be asked.
+- Anticipates the needs of those around them. Is respectful in terms of asynchronous hygiene, exhibiting care that their teammates can get in touch with them or knows their status during working hours. Fills out process docs without having to be asked.
 - Works to refine team processes to ensure everyone can be as productive as possible and build cohesion within the team.
 - Considers team morale one of their initiatives- actively strives to support others, make sure their voices are heard, and illuminate others’ work.
 

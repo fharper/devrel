@@ -28,7 +28,7 @@ Here is an example of how you can write a callout:
 ```markdown
 > 📘 **Info**
 >
-> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
+> This is an example of a callout.
 ```
 
 ### Types
@@ -38,19 +38,19 @@ There are four different types of callouts we use: `success`, `info`, `warning`,
 <!-- markdownlint-disable MD028 -->
 > 👍 **Success**
 >
-> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
+> This is an example of a callout.
 
 > 📘 **Info**
 >
-> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
+> This is an example of a callout.
 
 > 🚧 **Warning**
 >
-> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
+> This is an example of a callout.
 
 > ❗ **Error**
 >
-> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
+> This is an example of a callout.
 <!-- markdownlint-restore -->
 
 ## Code Block
@@ -87,7 +87,7 @@ Write in such a way that someone could totally understand without needing images
 - **Bad**: picture of a monkey
 - **Good**: a monkey eating a banana
 
-2. For screenshot, focus on what we want to show on the image, not everything, for example: a screenshoot of the signup page where we want the user to see which checkbox to check could be something like _“the terms and services checkbox under the password textfield”_.
+2. For screenshot, focus on what we want to show on the image, not everything, for example: a screenshot of the signup page where we want the user to see which checkbox to check could be something like _“the terms and services checkbox under the password text field”_.
 3. For diagram or anything with data, a quick summary, like a caption, with something that points to a summary of the data: not all details, but enough for someone to understand.
 <!-- markdownlint-restore -->
 
@@ -135,7 +135,7 @@ The second way is more easy to manage when you have to reorder your list, but to
 
 ## Table of Content
 
-Some Markdown parser will gebnerate a table of content (toc) automatically for you (i.e GitHub), but you should always write them manually. There is no guarantee that your content will be viewed with a tool that will do the same.
+Some Markdown parser will generate a table of content (toc) automatically for you (i.e GitHub), but you should always write them manually. There is no guarantee that your content will be viewed with a tool that will do the same.
 
 ## Misc
 

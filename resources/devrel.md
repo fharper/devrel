@@ -62,7 +62,6 @@ Some resources to help Developer Relations do their job
 
 - [Devrel Collective](https://devrelcollective.fun): for advocates, evangelists and community managers
 - [devrelX](https://www.devrelx.com/community): learning & training, data & resources, contribute and connect with peers and industry leaders.
-- [Flyless Dev](https://discord.com/invite/FWauQ9Vj): weekly meetup, presentations and community. DevRel without the airmiles.
 
 ### Product Centric
 
@@ -147,7 +146,7 @@ Never underestimate the power of having a cute company or product related mascot
 - DigitalOcean: [Sammy](https://www.digitalocean.com/blog/sammy-the-shark-gets-a-birthday-makeover-from-simon-oxley) the shark
 - Go: [Gopher](https://go.dev/blog/gopher)
 - HootSuite: [Owly](https://www.refinariadesign.com.br/manuais/HOOTSUITE/brandbook-manual-de-identidade-hootsuite-2014.pdf) the owl
-- Linux: [Tux](https://en.wikipedia.org/wiki/Tux_(mascot)) the pinguin
+- Linux: [Tux](https://en.wikipedia.org/wiki/Tux_(mascot)) the penguin
 - Mozilla: [a dinosaur](https://en.wikipedia.org/wiki/Mozilla_(mascot))
 - mParticle: [Higgs](https://www.mparticle.com/blog/meet-higgs) the capybara
 - npm: [Wombat](https://www.redbubble.com/shop/npm+wombat)
