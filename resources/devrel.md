@@ -33,6 +33,7 @@ Some resources to help Developer Relations do their job
 ## CFPs
 
 - [CFP Land](https://cfpland.com)
+- [CFP Radar](https://www.cfpradar.dev)
 - [Conference Tracker](https://milendyankov.com/ConferenceTracker/)
 - [Confs.tech](https://confs.tech/cfp) ([GitHub](https://github.com/tech-conferences/conference-data))
 - [dev.events](https://dev.events)
